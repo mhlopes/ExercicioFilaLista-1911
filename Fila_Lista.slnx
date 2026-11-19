@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Fila_Lista/Fila.csproj" />
+  <Project Path="Pilha/Lista.csproj" />
+</Solution>
