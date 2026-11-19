@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\source\\repos\\ExercicioFilaLista-1911\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDC03F7C-2ED2-442B-9B6F-E4C97494DB22}|Fila_Lista\\Fila.csproj|c:\\users\\matheuslopes\\source\\repos\\fila_lista\\fila_lista\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC03F7C-2ED2-442B-9B6F-E4C97494DB22}|Fila_Lista\\Fila.csproj|solutionrelative:fila_lista\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDC03F7C-2ED2-442B-9B6F-E4C97494DB22}|Fila_Lista\\Fila_Lista.csproj|c:\\users\\matheuslopes\\source\\repos\\fila_lista\\fila_lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC03F7C-2ED2-442B-9B6F-E4C97494DB22}|Fila_Lista\\Fila_Lista.csproj|solutionrelative:fila_lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDC03F7C-2ED2-442B-9B6F-E4C97494DB22}|Fila_Lista\\Fila.csproj|c:\\users\\matheuslopes\\source\\repos\\fila_lista\\fila_lista\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDC03F7C-2ED2-442B-9B6F-E4C97494DB22}|Fila_Lista\\Fila.csproj|solutionrelative:fila_lista\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|c:\\users\\matheus\\source\\repos\\exerciciofilalista-1911\\hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3396554-759B-E46C-1F09-C37D1E944B23}|Hospital\\Hospital.csproj|solutionrelative:hospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,54 +14,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\source\\repos\\ExercicioFilaLista-1911\\Hospital\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\source\\repos\\ExercicioFilaLista-1911\\Hospital\\Program.cs",
+              "RelativeToolTip": "Hospital\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T10:46:31.694Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Fila.cs",
-              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Fila.cs",
-              "RelativeDocumentMoniker": "Fila_Lista\\Fila.cs",
-              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Fila.cs",
-              "RelativeToolTip": "Fila_Lista\\Fila.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwDQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T15:03:40.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Fila_Lista\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Pessoa.cs",
-              "RelativeToolTip": "Fila_Lista\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T15:02:57.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Program.cs",
-              "RelativeDocumentMoniker": "Fila_Lista\\Program.cs",
-              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Program.cs",
-              "RelativeToolTip": "Fila_Lista\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T15:00:35.622Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
