@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CEDEE5F-9786-DB18-3451-1056DF506892}|Fila_Lista\\Fila.csproj|c:\\users\\matheuslopes\\source\\repos\\fila_lista\\fila_lista\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CEDEE5F-9786-DB18-3451-1056DF506892}|Fila_Lista\\Fila.csproj|solutionrelative:fila_lista\\fila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B576821E-6B05-28D9-9689-309F5C9C64DB}|Pilha\\Lista.csproj|c:\\users\\matheuslopes\\source\\repos\\fila_lista\\pilha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B576821E-6B05-28D9-9689-309F5C9C64DB}|Pilha\\Lista.csproj|solutionrelative:pilha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CEDEE5F-9786-DB18-3451-1056DF506892}|Fila_Lista\\Fila.csproj|c:\\users\\matheuslopes\\source\\repos\\fila_lista\\fila_lista\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CEDEE5F-9786-DB18-3451-1056DF506892}|Fila_Lista\\Fila.csproj|solutionrelative:fila_lista\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CEDEE5F-9786-DB18-3451-1056DF506892}|Fila_Lista\\Fila.csproj|c:\\users\\matheuslopes\\source\\repos\\fila_lista\\fila_lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CEDEE5F-9786-DB18-3451-1056DF506892}|Fila_Lista\\Fila.csproj|solutionrelative:fila_lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B576821E-6B05-28D9-9689-309F5C9C64DB}|Pilha\\Lista.csproj|c:\\users\\matheuslopes\\source\\repos\\fila_lista\\pilha\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B576821E-6B05-28D9-9689-309F5C9C64DB}|Pilha\\Lista.csproj|solutionrelative:pilha\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +30,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Fila.cs",
-              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Fila.cs",
-              "RelativeDocumentMoniker": "Fila_Lista\\Fila.cs",
-              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Fila.cs",
-              "RelativeToolTip": "Fila_Lista\\Fila.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwDQAAAARAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Pilha\\Contato.cs",
+              "RelativeDocumentMoniker": "Pilha\\Contato.cs",
+              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Pilha\\Contato.cs",
+              "RelativeToolTip": "Pilha\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T15:03:40.811Z",
+              "WhenOpened": "2026-11-19T18:12:28.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Fila_Lista\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Pessoa.cs",
-              "RelativeToolTip": "Fila_Lista\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T15:02:57.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Program.cs",
-              "RelativeDocumentMoniker": "Fila_Lista\\Program.cs",
-              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Fila_Lista\\Program.cs",
-              "RelativeToolTip": "Fila_Lista\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Pilha\\Program.cs",
+              "RelativeDocumentMoniker": "Pilha\\Program.cs",
+              "ToolTip": "C:\\Users\\MatheusLopes\\source\\repos\\Fila_Lista\\Pilha\\Program.cs",
+              "RelativeToolTip": "Pilha\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T15:00:35.622Z"
+              "WhenOpened": "2026-11-19T17:12:34.108Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,16 @@
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\bin\Debug\net10.0\Lista.exe
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\bin\Debug\net10.0\Lista.deps.json
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\bin\Debug\net10.0\Lista.runtimeconfig.json
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\bin\Debug\net10.0\Lista.dll
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\bin\Debug\net10.0\Lista.pdb
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\obj\Debug\net10.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\obj\Debug\net10.0\Lista.AssemblyInfoInputs.cache
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\obj\Debug\net10.0\Lista.AssemblyInfo.cs
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\obj\Debug\net10.0\Lista.csproj.CoreCompileInputs.cache
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\obj\Debug\net10.0\Lista.sourcelink.json
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\obj\Debug\net10.0\Lista.dll
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\obj\Debug\net10.0\refint\Lista.dll
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\obj\Debug\net10.0\Lista.pdb
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\obj\Debug\net10.0\Lista.genruntimeconfig.cache
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\obj\Debug\net10.0\ref\Lista.dll
+C:\Users\MatheusLopes\source\repos\Fila_Lista\Pilha\obj\Debug\net10.0\Lista.csproj.Up2Date

@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Fila_Lista/Fila.csproj" />
+  <Project Path="Hospital/Hospital.csproj" />
   <Project Path="Pilha/Lista.csproj" />
+  <Project Path="Pilha1/Pilha1.csproj" Id="f5b2f79b-72ee-43e4-95e6-f2b03d0409fe" />
 </Solution>
